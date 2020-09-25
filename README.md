@@ -10,7 +10,7 @@
 ### Main Menu:
 <br>
 
-![Main Photo](images/main.png)
+![Main Photo](main.png)
 
 ### Choices:
 <br>
@@ -21,7 +21,7 @@
     ```
     Please enter your choice: 1
     ```
-    ![Main Photo](images/insert.png)
+    ![Main Photo](insert.png)
 
 2. #### Display Bill
     <br>
@@ -29,7 +29,7 @@
     ```
     Please enter your choice: 2
     ```
-    ![Main Photo](images/display.png)
+    ![Main Photo](display.png)
 
 3. #### Delete Product by Position
     <br>
@@ -37,7 +37,7 @@
     ```
     Please enter your choice: 3
     ```
-    ![Main Photo](images/delbyp.png)
+    ![Main Photo](delbyp.png)
 
 4. #### Delete Product by Name
     <br>
@@ -45,7 +45,7 @@
     ```
     Please enter your choice: 4
     ```
-    ![Main Photo](images/delbyname.png)
+    ![Main Photo](delbyname.png)
 
 ## Technologie's used
 * Circular DEQueue 
